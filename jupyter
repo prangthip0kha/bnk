@@ -1,4 +1,0 @@
-# how I open jupyter
-cd dsi200
-conda activate fdsi
-jupyter notebook
